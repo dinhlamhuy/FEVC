@@ -1,0 +1,81 @@
+{
+    "lblNo": "No",
+    "lblUniqueCode": "Unique Code",
+    "lblFactoryCode": "Factory Code",
+    "lblEquipmentName": "Equipment Name",
+    "lblGroup": "Group",
+    "lblPhotoForReference": "Photo for reference",
+    "lblModel": "Model",
+    "lblDeviceSerialNumber": "Device Serial Number",
+    "lblBrand": "Brand",
+    "lblSupplier": "Supplier",
+    "lblIncommingDate": "Incomming date",
+    "lblMeasurementIndication": "Measurement indication",
+    "lblUsePurpose_MachineIndication": "Use Purpose/ Machine indication",
+    "lblRange": "Range",
+    "lblLocation": "Location",
+    "lblBuilding": "Building",
+    "lblDepartment_Line": "Department-Line",
+    "lblPersonInCharge": "Person in charge",
+    "lblInternalCalibration": "Internal Calibration",
+    "lblFrequencyFollowAdidasRequirement": "Frequency follow adidas requirement",
+    "lblCurrentFrequency": "Current Frequency",
+    "lblStatus": "Status",
+    "lblValid": "Valid",
+    "lblInValid": "InValid",
+    "lblPass": "PASS",
+    "lblFail": "FAIL",
+    "lblExternalCalibration": "External Calibration",
+    "lblCertifiedCalibrationInstitute/Company": "Certified Calibration Institute / Company",
+    "lblDateOfCalibration": "Date Of Calibration",
+    "lblResult": "Result",
+    "lblDateOfNextCalibration": "Date Of Next Calibration",
+    "lblRemark": "Remark",
+    "lblChangeLng": "Change language",
+    "lblHome": "Home",
+    "lblListDevice": "List Device",
+    "lblLogout": "Log Out",
+    "lblUploadNewDevice": "Upload new device",
+    "lblUploadUpdateDevice": "Update device details",
+
+    "lblDeviceDetails": "Device details",
+    "lblLogin": "Login",
+    "lblUserID": "User ID",
+    "lblPassword": "Password",
+    "btnAdd":"Add",
+    "btnEdit":"Update",
+    "btnDelete":"Delete",
+    "btnReset":"Reset",
+    "btnSearch":"Search",
+    "btnExcel":"Export Excel",
+    "lblTotal": "Total",
+    "btnPrev":"Prev",
+    "btnNext":"Next",
+    "alertAddSuccess":"Device added successfully",
+    "alertDeleteSuccess":"Delete device successfully",
+    "alertDeleteFail":"Delete device failed",
+    "alertAddFail":"Add device failed",
+    "alertUpdateSuccess":"Update successful",
+    "alertUpdateFail":"Update failed",
+    "confirmAdd":"Do you want to add a new device?",
+    "confirmDelete":"Want to delete this device?",
+    "confirmUpdate":"Want to update this device?",
+    "CalibrationDetail":"Calibration Detail",
+    "SeeDetails":"View report",
+    "Content":"Evaluation",
+    "lblTitle":"Calibration detail table",
+    "errValidate":"Required to enter full information"
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
